@@ -17,3 +17,12 @@ Led EDA on real-world datasets, uncovering meaningful patterns and trends to dri
 #### 4. Collaboration and Dashboard Design:
 
 Collaborated with cross-functional teams to design and build interactive Tableau dashboards for intuitive data exploration.
+
+
+
+## 8 Week 8 Tasks
+<br>
+
+### Week 1
+Bike Buyers Dashboard Creation using Power BI
+https://github.com/SwathyKrishna02/Bike_Buyers
